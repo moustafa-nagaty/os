@@ -1,0 +1,3 @@
+ 1- sudo apt-get install bochs-sdl in terminal.
+
+2- add display_library: sdl at the end of conf.bxrc file.
